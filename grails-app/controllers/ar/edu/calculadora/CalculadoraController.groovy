@@ -18,7 +18,7 @@ class CalculadoraController {
 		calculadora.numero1 = new BigDecimal(params.numero1)
 		calculadora.numero2 = new BigDecimal(params.numero2)
 		calculadora.sumar()
-		[resultado: calculadora.resultado]
+		[calculadora: calculadora]
 	}
 	
 }
