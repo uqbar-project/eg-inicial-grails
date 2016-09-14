@@ -1,6 +1,6 @@
 # Ejemplo inicial de Grails
 
-![iconos-calculadora](https://cloud.githubusercontent.com/assets/4549002/18516725/6b86f4c8-7a70-11e6-86f4-997e82ea0107.png)
+![calculator-159535_960_720](https://cloud.githubusercontent.com/assets/4549002/18518200/700ba494-7a75-11e6-946e-f27db576b84a.png)
 
 ## Explicación
 En este ejemplo tenés dos links para 
