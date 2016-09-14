@@ -10,6 +10,8 @@ En este ejemplo tenés dos links para
 
 que se explican en [este apunte](https://drive.google.com/open?id=1g9Q7TxWU5hJu6_V8r63eSCek1EC1PCTL-f310XzDANE).
 
-## Qué tiene
+## Versiones actuales
 
+* Grails 2.4.2
+* sobre GGTS 3.6.0
 * twitter-bootstrap 3.2.0
