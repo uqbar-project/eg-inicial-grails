@@ -2,7 +2,7 @@
 
 <div>
 <img src="https://cloud.githubusercontent.com/assets/4549002/18518200/700ba494-7a75-11e6-946e-f27db576b84a.png" width="120px" height="120px"/>
-<img src="doc/demo-suma.gif" style="text-align: right;"/>
+<img src="video/demo-suma.gif" style="text-align: right;"/>
 
 </div>
 
